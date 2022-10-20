@@ -1,0 +1,16 @@
+/*
+ Theme Name:   test-theme
+ Theme URI:    https://generatepress.com
+ Description:  Default GeneratePress child theme
+ Author:       Tom Usborne
+ Author URI:   https://tomusborne.com
+ Template:     generatepress
+ Version:      0.1
+ GitHub Theme URI: Coru89/test-theme
+ Primary Branch: main
+*/
+
+
+.wp-block-media-text {
+    background-color: lightblue;
+}
